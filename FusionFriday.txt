@@ -442,6 +442,16 @@ Nuclear fusion requires to bring 2 positively charged nuclei very close together
 Magnetic field lines in tokamaks & stellarators are twisted (like a screw). Toroidal geometry results in drift motion of electrons & ions into opposite directions, creating E-fields. Twisted field lines connect regions of opposite charge, cancelling the E-fields.
 #FusionFriday
 
+() 2020-05-08
+In 1949, young soldier Oleg Lavrentiev wrote a letter to Stalin. He taught himself physics & suggested the basic concept behind the tokamak. Stalin forwarded the letter to Sakharov & Tamm. They invited Lavrentiev, discussed further, and the 1st tokamak was built.
+#FusionFriday
+https://twitter.com/i/status/1258727811046572033
+
+() 2020-05-15
+The small tokamak TM-1 saw first plasma in 1960 in Moscow. 1977 it was given to Prague. After refurbishing (1984) it was renamed CASTOR and operated until 2007. Now it is called GOLEM and serves as a student experiment. Very likely the oldest tokamak in operation.
+#FusionFriday
+https://twitter.com/i/status/1261310771465781249
+
 () 2020-05-22
 Fusion reactivity quantifies the likelihood for a fusion reaction to occur averaged over a thermal distribution (plasma particles have a distribution of energies rather than a single energy). Sun's fusion process p+p is highly unlikely compared to our favorite D+T
 #FusionFriday

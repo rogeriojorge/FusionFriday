@@ -340,6 +340,11 @@ Plasma are basically ionized gases. Consisting of freely moving charges, the con
 Liquid metals walls are currently discussed as a possible 1st wall in a fusion reactor: a vapor cloud above the wall develops, catching a significant part of the energy flowing from the plasma to the wall. It's easier to keep the wall's temperature low this way.
 #FusionFriday
 
+(84) 2019-11-01
+ITER's cryostat is basically an enormous fridge, it's role is to provide a thermal insulation for the superconducting magnets operating at 4.5 K. It's made of stainless steel and has a weight of roughly 3500 tons. It's also a gigantic vacuum vessel (8500 m^3).
+#FusionFriday
+https://twitter.com/i/status/1190198850511921152
+
 () 2019-11-08
 A large tokamak will be built in Italy, near Rome. The Divertor Tokamak Test Facility (DTT) will investigate various power exhaust possibilities for DEMO (the fusion power plant prototype). First plasma is planned for late 2025/early 2026.
 #FusionFriday

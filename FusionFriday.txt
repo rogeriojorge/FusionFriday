@@ -442,6 +442,11 @@ Nuclear fusion requires to bring 2 positively charged nuclei very close together
 Magnetic field lines in tokamaks & stellarators are twisted (like a screw). Toroidal geometry results in drift motion of electrons & ions into opposite directions, creating E-fields. Twisted field lines connect regions of opposite charge, cancelling the E-fields.
 #FusionFriday
 
+() 2020-05-01
+Zonal flows are known from longitudinal flows in the Earth's atmosphere or from the massive gas planet Jupiter. They also appear in stellarators & tokamaks. Being fed by turbulence, they might play a role in reducing it and thus the corresponding losses.
+#FusionFriday
+https://twitter.com/i/status/1256235221525172227
+
 () 2020-05-08
 In 1949, young soldier Oleg Lavrentiev wrote a letter to Stalin. He taught himself physics & suggested the basic concept behind the tokamak. Stalin forwarded the letter to Sakharov & Tamm. They invited Lavrentiev, discussed further, and the 1st tokamak was built.
 #FusionFriday

@@ -3,44 +3,59 @@ Friday is for fusion facts: In 1919, Ernest Rutherford observed for the first ti
 #FusionFact
 https://twitter.com/formbar/status/951723996961280001
 
-(2) 
-In 1920, Sir Eddington thought about the energy source of the sun: "A star is drawing on same vast reservoir of energy [...] we sometimes dream than man will one day learn how to release it and use for his service." Can be considered as fusion research kick-off. #FusionFriday
+(2) 2018-01-19
+In 1920, Sir Eddington thought about the energy source of the sun: "A star is drawing on same vast reservoir of energy [...] we sometimes dream than man will one day learn how to release it and use for his service." 
 
-(3)
-In 1939, Hans Bethe explained the sun's energy source: the proton-proton chain. Awarded with Nobel Prize in Physics in 1967, see his original paper https://doi.org/10.1103/PhysRev.55.434 and his Nobel-lecture (pdf) https://www.nobelprize.org/nobel_prizes/physics/laureates/1967/bethe-lecture.pdf
+Can be considered as fusion research kick-off.
+
 #FusionFriday
+https://twitter.com/formbar/status/954262008425304064
 
-(4)
+(3) 2018-01-26
+In 1939, Hans Bethe explained our sun's energy source: the proton-proton chain. Awarded with Nobel Prize in Physics in 1967, see his original paper https://doi.org/10.1103/PhysRev.55.434 and his Nobel-lecture (pdf) https://nobelprize.org/nobel_prizes/physics/laureates/1967/bethe-lecture.pdf 
+#FusionFriday
+https://twitter.com/formbar/status/956786660930355200
+
+(4) 2018-02-02
 For a single proton in the sun to fuse together with another proton, it takes approximately 10^9 years. Yes, that is 1000000000 years and, yes, that is very long. That is why we prefer the Deuterium - Tritium fusion on earth.
 #FusionFriday
+https://twitter.com/formbar/status/959328674951696384
 
-(5)
-In 1950, the Soviet soldier Oleg Lavrentiev proposed in a letter to the Kremlin a concept for a nuclear fusion reactor. Everything he knew was entirely from reading books. He was allowed to study after this letter and is nowadays regarded as a father of Soviet fusion research.
+(5) 2018-02-09
+In 1950, Soviet soldier Oleg Lavrentiev proposed in a letter to the Kremlin a concept for a fusion reactor. Everything he knew was entirely from reading books. He was allowed to study after this letter and is nowadays regarded as a father of Soviet fusion research.
 #FusionFriday 
+https://twitter.com/formbar/status/961865536173883394
 
-(6)
+(6) 2018-02-23
 Lyman Spitzer, father of the stellarator and the Hubble space telescope, decided to look into fusion research after reading a scientific fraud article about fusion breakthrough achieved in Argentina in 1951.
-#FusionFriday
 
-(7)
+#FusionFriday
+https://twitter.com/formbar/status/966947025655824384
+
+(7) 2018-03-02
 The fusion triple product, also known as Lawson criterion, combines the 3 global quantities relevant for a burning plasma: density, temperature and energy confinement time. Their product needs to overcome a certain threshold for ignition (and we are getting close)
-#FusionFriday
+#FusionFriday 
+https://twitter.com/formbar/status/969499616138944512
 
-(8)
+(8) 2018-03-09
 In 1968, the Soviet tokamak T3 reported a record temperature of 2 keV, that is 22 Mio degrees. The fusion community was sceptical, so they were invited to T3 to do their own measurements. The values were confirmed and a lot of labs switched to researching tokamak.
 #FusionFriday
+https://twitter.com/formbar/status/972028102783184896
 
-(9)
+(9) 2018-03-16
 The Q-value is an often used measure in fusion research: it is the fusion power produced in a reactor divided by the applied external heating power. In 1997 a record value of Q=0.67 was achieved in the JET tokamak (fusion output: 16 MW). ITER is aiming at Q=10.
 #FusionFriday
+https://twitter.com/formbar/status/974552522760192000
 
-(10)
-In ITER, we will initiate the fusion of Deuterium and Tritium. There are only 2 other tokamaks where this has been done so far: TFTR (USA) and JET (UK). The maximum thermal fusion output in TFTR was 10.7 MW (1994) and in JET 16 MW (1997). ITER is aiming at 500 MW.
+(10) 2018-03-23
+In ITER, we will initiate the fusion of Deuterium and Tritium. There are only 2 other tokamaks where this has been done so far: TFTR (USA) and JET (UK). The maximum thermal fusion output in TFTR was 10.7 MW (1994) and in JET 16 MW (1997). ITER is aiming at 500 MW. 
 #FusionFriday
+https://twitter.com/formbar/status/977087743665868801
 
-(11)
-The German stellarator family "Wendelstein" was named after a mountain in Bavaria. The physicists were inspired (i.e. they found it funny) by American colleagues: they called their stellarator project "Project Matterhorn". Wendelstein 1 was operated in the early 1960s.
+(11) 2018-03-30
+The German stellarator family "Wendelstein" is named after a mountain in Bavaria. The physicists were inspired (i.e. they found it funny) by American colleagues: they called their stellarator project "Project Matterhorn". Wendelstein 1 was operated in the 1960s.
 #FusionFriday
+https://twitter.com/formbar/status/979667699914756101
 
 (12)
 The plasma-beta is the ratio of kinetic pressure (plasma density times temperature) to magnetic field pressure. It is an important quantity as it basically describes how much plasma you get per magnetic field, the more the better.

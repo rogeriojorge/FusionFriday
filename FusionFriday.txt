@@ -442,6 +442,11 @@ Nuclear fusion requires to bring 2 positively charged nuclei very close together
 Magnetic field lines in tokamaks & stellarators are twisted (like a screw). Toroidal geometry results in drift motion of electrons & ions into opposite directions, creating E-fields. Twisted field lines connect regions of opposite charge, cancelling the E-fields.
 #FusionFriday
 
+() 2020-05-22
+Fusion reactivity quantifies the likelihood for a fusion reaction to occur averaged over a thermal distribution (plasma particles have a distribution of energies rather than a single energy). Sun's fusion process p+p is highly unlikely compared to our favorite D+T
+#FusionFriday
+https://twitter.com/formbar/status/1263773891371073538
+
 () 2020-05-29
 The cryostat of a tokamak or stellarator provides a vacuum insulation to thermally isolate the superconducting magnets and also to support tokamak/stellarator components. ITER's massive cryostat base (its largest component) has been put into place this week.
 #FusionFriday

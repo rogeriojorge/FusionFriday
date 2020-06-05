@@ -595,8 +595,10 @@ The cryostat of a tokamak or stellarator provides a vacuum insulation to thermal
 #FusionFriday
 https://twitter.com/i/status/1266299924355772423
 
-
-
+(116) 2020-06-05   + self-made drawing of fieldline+flux surface
+A magnetic field line in tokamak & stellarator goes around toroidally and usually doesn't close: it traces out a surface, called magnetic flux surface. Charged particles move freely along field lines, thus plasma density & temperature is the same on such a surface.
+#FusionFriday
+https://twitter.com/formbar/status/1268900054598901762
 
 
 NEW:

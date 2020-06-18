@@ -600,8 +600,11 @@ A magnetic field line in tokamak & stellarator goes around toroidally and usuall
 #FusionFriday
 https://twitter.com/formbar/status/1268900054598901762
 
+(117) 2020-06-12   + GIF
+Liquid metals walls are currently discussed as a possible 1st wall in a fusion reactor: a vapor cloud above the wall develops, catching a significant part of the energy flowing from the plasma to the wall. It's easier to keep the wall's temperature low this way.
+#FusionFriday
+https://twitter.com/formbar/status/1271475083706609664
 
 NEW:
 () 
-Liquid metals walls are currently discussed as a possible 1st wall in a fusion reactor: a vapor cloud above the wall develops, catching a significant part of the energy flowing from the plasma to the wall. It's easier to keep the wall's temperature low this way.
-#FusionFriday
+

@@ -605,6 +605,11 @@ Liquid metals walls are currently discussed as a possible 1st wall in a fusion r
 #FusionFriday
 https://twitter.com/formbar/status/1271475083706609664
 
+(118) 2020-06-19   + GIF
+The magnetic field in a tokamak or stellarator needs to be twisted (like a screw), otherwise there will be no confinement. In addition, the twist changes over the radius. This is called magnetic shear and can greatly enhance the stability of a plasma.
+#FusionFriday
+https://twitter.com/formbar/status/1273921560823369729
+
 NEW:
 () 
 

@@ -610,6 +610,21 @@ The magnetic field in a tokamak or stellarator needs to be twisted (like a screw
 #FusionFriday
 https://twitter.com/formbar/status/1273921560823369729
 
+(119) 2020-06-26   + self-made 1D random-walk movie
+In the most simple 1D random walk example you toss a coin and then go 1 step forward (head) or 1 step backward (tail). The general principle of a random walk can be used to describe numerous phenomena in physics, transport in fusion plasmas in only one of them.
+#FusionFriday
+https://twitter.com/formbar/status/1276438766111076353
+
+(120) 2020-07-03   + GIF
+Key to confinement of a hot plasma in a tokamak is a strong toroidal (along the torus) magnetic field, achieved by field coils. The finite number of coils introduces an inhomogeneity, a ripple. This ripple, stronger at the boundary, can cause loss of some particles.
+#FusionFriday
+https://twitter.com/formbar/status/1279086752339238917
+
+(121) 2020-07-10   + GIF
+Turbulence in neutral fluids is generally 3D. In magnetized plasmas the B-field imposes a restriction on the movement of the plasma, resulting in the turbulence being 2D. An interesting consequences is the occurrence of large structures being fed by smaller ones. 
+#FusionFriday
+https://twitter.com/formbar/status/1281584134704582657
+
 NEW:
 () 
 

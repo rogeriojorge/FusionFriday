@@ -625,6 +625,22 @@ Turbulence in neutral fluids is generally 3D. In magnetized plasmas the B-field 
 #FusionFriday
 https://twitter.com/formbar/status/1281584134704582657
 
+(122) 2020-07-17   + NASA-photo
+Huge filaments occurring at the sun's surface are responsible for massive ejection of particles & energy into space. The filaments are formed by magnetic field lines, guiding & trapping the sun's hot plasma, reminiscent of tokamak & stellarator on Earth.
+Image: NASA
+#FusionFriday
+https://twitter.com/formbar/status/1284036268805038080
+
+(123) 2020-07-24   + GIF
+Edward Teller, often described as farther of the H-bomb, also worked on the peaceful use of fusion. In 1954, he said "Trying to confine a plasma with magnetic field lines is like trying to hold a blob of jelly with rubber bands". Not impossible, but also not easy. 
+#FusionFriday
+https://twitter.com/formbar/status/1286691972376416257
+
+(124) 2020-07-31
+This week was the beginning of the assembly of the ITER device itself, which will roughly take 5 years. To get a better understanding of the device, plans of a 1/100 scaled-down version of ITER for your local 3D printer were released: https://iter.org/newsline/-/3477
+#FusionFriday
+https://twitter.com/formbar/status/1289185161473478656
+
 NEW:
 () 
 

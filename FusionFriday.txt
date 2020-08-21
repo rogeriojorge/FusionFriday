@@ -641,6 +641,11 @@ This week was the beginning of the assembly of the ITER device itself, which wil
 #FusionFriday
 https://twitter.com/formbar/status/1289185161473478656
 
+(125) 2020-08-21   + GIF
+The first patent for a fusion reactor was filed in 1946 by Thomson & Blackman, working at the University of London. In contrast to today’s experiment it was a tabletop device. It turned out to not work, but its concept was already similar to the tokamak.
+#FusionFriday
+https://twitter.com/formbar/status/1296741184522653696
+
 NEW:
 () 
 

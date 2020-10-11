@@ -646,6 +646,42 @@ The first patent for a fusion reactor was filed in 1946 by Thomson & Blackman, w
 #FusionFriday
 https://twitter.com/formbar/status/1296741184522653696
 
+(126) 2020-08-28   + GIF
+Sawtooth instabilities occur in tokamaks: periodically, a slow increase of central temperature is followed by a sudden drop (resulting in energy release), hence the name sawtooth. It limits central temperature but can also help to remove He ash in a burning plasma.
+#FusionFriday
+https://twitter.com/formbar/status/1299343766424301568
+
+(127) 2020-09-04   + GIF
+A magnetic field line goes around & around in tokamak or stellarator, defining a magnetic flux surface. Plasma pressure is equal on it. There can be errors, however, so-called magnetic islands, a closed flux surface isolated from the background.
+#FusionFriday
+https://twitter.com/formbar/status/1301886406923436032
+
+(128) 2020-09-11   + GIF
+The JT-60SA tokamak, located in Japan, is scheduled to start operation in autumn this year. It will be the world's most powerful tokamak, and also the closest in design to ITER. It is supposed to help prepare the initial operation of ITER.
+#FusionFriday
+https://twitter.com/formbar/status/1304391228956594177
+
+(129) 2020-09-18   + GIF
+Fusion research does not only happen at publicly funded national labs or universities. There exists almost 30 privately funded companies around the world pursuing different paths to realize fusion: http://julien.hillairet.free.fr/wiki/doku.php?id=list_of_fusion_startups, via @HillairetJulien
+#FusionFriday
+https://twitter.com/formbar/status/1306962719741038598
+
+(130) 2020-09-25   + GIF
+In the sun, the proton-proton chain is the fusion reaction being responsible for the released energy. This has been explained in 1938, but it took until 1992 to experimentally confirm it by detecting neutrinos produced in that reaction in the GALLEX experiment.
+#FusionFriday
+https://twitter.com/formbar/status/1309447795674427392
+
+(131) 2020-10-02
+Fusion is rarely taught in secondary schools. That's why FuseNet is organizing the #FusionTeacherDay today. Find my (warning: German) introductory slides for physics teacher here: https://doi.org/10.18419/opus-11052
+@FuseNet_eu will provide classroom material soon.
+#FusionFriday
+https://twitter.com/formbar/status/1311991710210285568
+
+(132) 2020-10-09   + GIF
+SPARC is a design study of a tokamak with high-temperature superconductors allowing for higher field than conventional superconductors. Still a conventional tokamak, it shares the physics basis with ITER. The higher field, however, would allow for a smaller machine.
+#FusionFriday
+https://twitter.com/formbar/status/1314526827340271624
+
 NEW:
 () 
 

@@ -682,6 +682,13 @@ SPARC is a design study of a tokamak with high-temperature superconductors allow
 #FusionFriday
 https://twitter.com/formbar/status/1314526827340271624
 
+
+() 2020-11-06   + GIF
+If the plasma pressure increases, currents flowing in the plasma also increase, stabilizing the pressure. These currents influence the background magnetic field and result in a shift of the plasma, the Shafranov shift. It it's too large the plasma becomes unstable.
+#FusionFriday
+https://twitter.com/formbar/status/1324727467379171329
+
+
 NEW:
 () 
 

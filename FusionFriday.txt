@@ -682,12 +682,41 @@ SPARC is a design study of a tokamak with high-temperature superconductors allow
 #FusionFriday
 https://twitter.com/formbar/status/1314526827340271624
 
+(133) 2020-10-16   + GIF
+A tokamak has a toroidal electric field (transformer effect) initially accelerating free electrons which then start a plasma discharge via collisions. Some electrons, runaway electrons, are too fast for collisions. Their energies can approach relativistic levels.
+#FusionFriday
+https://twitter.com/formbar/status/1317042469234790400
 
-() 2020-11-06   + GIF
+(134) 2020-10-23   + GIF
+The INTOR project started in 1973 by a meeting between Nixon & Brezhnev. They agreed that cooperating in fusion research would help to ease tension between them. Regular workshops were held, identifying research needs & building the basis for what led later to ITER.
+#FusionFriday
+https://twitter.com/formbar/status/1319603121379823616
+
+(135) 2020-10-30
+A new fusion device saw its first plasma yesterday: MAST Upgrade at Culham (UK). It's a spherical tokamak which is a more compact version of a conventional tokamak. Its potential for a fusion reactor will be investigated + plasma exhaust questions relevant for ITER.
+#FusionFriday
+https://twitter.com/formbar/status/1322222307595722752
+
+(136) 2020-11-06   + GIF
 If the plasma pressure increases, currents flowing in the plasma also increase, stabilizing the pressure. These currents influence the background magnetic field and result in a shift of the plasma, the Shafranov shift. It it's too large the plasma becomes unstable.
 #FusionFriday
 https://twitter.com/formbar/status/1324727467379171329
 
+(137) 2020-11-13   + GIF
+Tokamak plasmas can experience initial perturbations resulting in vertical movement. Forces from magnetic field & plasma current enhance the displacement, plasma eventually hits the vessel (Vertical Displacement Event). Passive & active control is therefore applied.
+#FusionFriday
+https://twitter.com/formbar/status/1327215952258273280
+
+(138) 2020-11-20
+Pushing a tokamak plasma to high performance is not straight-forward as there are many parameters to vary. A very nice way to understand this is a tokamak simulator from @PPPL, found here: https://ippex.pppl.gov/#vt 
+My highscore: 334 - can you beat it?
+#FusionFriday
+https://twitter.com/formbar/status/1329740678654554113
+
+(139) 2020-11-27   + GIF
+In the CNO cycle, 4 protons are fused to an alpha particle using carbon, nitrogen, oxygen as catalysts. It plays a minor role in our sun but is dominant in heavier stars. Being known since 90 years,1st experimental evidence (neutrinos) has been reported this week.
+#FusionFriday
+https://twitter.com/formbar/status/1332301534420496385
 
 NEW:
 () 

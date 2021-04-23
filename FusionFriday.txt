@@ -723,6 +723,27 @@ The largest super-conducting tokamak in the world, JT-60SA, has reached super-co
 #FusionFriday
 https://twitter.com/formbar/status/1334882161380429825
 
+
+() 2021-04-23
+Important contributions by female researchers to fusion science - a thread.
+
+Donna Strickland, Nobel Prize 2018. Her work allowed to create incredibly intense laser pulses which are mandatory in laser fusion.
+
+#FusionFriday #WomenInScience #WomenInFusion
+
+Sanae-Inoue Itoh. She contributed heavily to the model of how the transition into the H-mode works. The H-mode is a type of plasma configuration in which confinement suddenly increases, allowing to reduce the overall size of a potential fusion power plant.
+
+Annick Pouquet. She pioneered a lot of computational & theoretical research on magneto-hydrodynamical turbulence, e.g. on the understanding of the energy transfer between different scales. While her work was about astrophysical plasmas, it is also adapted to fusion plasmas.
+
+Xenija (Ksenija) Razumova. Since the very beginning of fusion research, she contributed to experimental research on tokamaks. Of particular importance was her achievement of a stable plasma scenario in the TM-2 tokamak, marking the beginning of the world-wide tokamak dominance.
+
+Katherine Weimer. Her theoretical research and models of plasma equilibrium were the basis on which the early stellarators in Princeton, @PPPLab, were constructed, although she contributed to both, tokamak and stellarator research.
+
+Sibylle Günter. She is head of Max Planck Institute for Plasma Physics, @PlasmaphysikIPP, home of the world largest stellarator and EU's largest tokamak. Besides her important theoretical contributions on tokamak transport, she is strongly pushing forward education in fusion.
+
+This is just a small, far from complete list, and I ask you to add more by replying to this thread.
+
+
 NEW:
 () 
 

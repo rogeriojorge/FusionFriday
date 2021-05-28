@@ -1151,6 +1151,14 @@ contribute: https://fusenet.eu/textbook-cover-contest
 #FusionFriday
 https://twitter.com/formbar/status/1395737218728214530
 
+() 2021-05-28   + GIF
+First Light Fusion @FLFusion is a privately funded company doing inertial 
+confinement: a rail gun accelerates a copper projectile to 30 km/s. Hitting a 
+plastic target, shock waves should compress a fusion-fuel filled cavity in its 
+center to fusion conditions.
+#FusionFriday
+https://twitter.com/formbar/status/1398286714901237765
+
 NEW:
 () 
 

@@ -1,10 +1,13 @@
 (1) 2018-01-12
-Friday is for fusion facts: In 1919, Ernest Rutherford observed for the first time a nuclear fusion reaction in the lab: α + 14N --> 17O + p
+Friday is for fusion facts: In 1919, Ernest Rutherford observed for the first 
+time a nuclear fusion reaction in the lab: α + 14N --> 17O + p
 #FusionFact
 https://twitter.com/formbar/status/951723996961280001
 
 (2) 2018-01-19
-In 1920, Sir Eddington thought about the energy source of the sun: "A star is drawing on same vast reservoir of energy [...] we sometimes dream than man will one day learn how to release it and use for his service." 
+In 1920, Sir Eddington thought about the energy source of the sun: "A star is 
+drawing on same vast reservoir of energy [...] we sometimes dream than man will 
+one day learn how to release it and use for his service." 
 
 Can be considered as fusion research kick-off.
 
@@ -12,225 +15,341 @@ Can be considered as fusion research kick-off.
 https://twitter.com/formbar/status/954262008425304064
 
 (3) 2018-01-26
-In 1939, Hans Bethe explained our sun's energy source: the proton-proton chain. Awarded with Nobel Prize in Physics in 1967, see his original paper https://doi.org/10.1103/PhysRev.55.434 and his Nobel-lecture (pdf) https://nobelprize.org/nobel_prizes/physics/laureates/1967/bethe-lecture.pdf 
+In 1939, Hans Bethe explained our sun's energy source: the proton-proton chain. 
+Awarded with Nobel Prize in Physics in 1967, see his original paper 
+https://doi.org/10.1103/PhysRev.55.434 and his Nobel-lecture (pdf) 
+https://nobelprize.org/nobel_prizes/physics/laureates/1967/bethe-lecture.pdf 
 #FusionFriday
 https://twitter.com/formbar/status/956786660930355200
 
 (4) 2018-02-02
-For a single proton in the sun to fuse together with another proton, it takes approximately 10^9 years. Yes, that is 1000000000 years and, yes, that is very long. That is why we prefer the Deuterium - Tritium fusion on earth.
+For a single proton in the sun to fuse together with another proton, it takes 
+approximately 10^9 years. Yes, that is 1000000000 years and, yes, that is very 
+long. That is why we prefer the Deuterium - Tritium fusion on earth.
 #FusionFriday
 https://twitter.com/formbar/status/959328674951696384
 
 (5) 2018-02-09
-In 1950, Soviet soldier Oleg Lavrentiev proposed in a letter to the Kremlin a concept for a fusion reactor. Everything he knew was entirely from reading books. He was allowed to study after this letter and is nowadays regarded as a father of Soviet fusion research.
+In 1950, Soviet soldier Oleg Lavrentiev proposed in a letter to the Kremlin a 
+concept for a fusion reactor. Everything he knew was entirely from reading 
+books. He was allowed to study after this letter and is nowadays regarded as 
+a father of Soviet fusion research.
 #FusionFriday 
 https://twitter.com/formbar/status/961865536173883394
 
 (6) 2018-02-23
-Lyman Spitzer, father of the stellarator and the Hubble space telescope, decided to look into fusion research after reading a scientific fraud article about fusion breakthrough achieved in Argentina in 1951.
+Lyman Spitzer, father of the stellarator and the Hubble space telescope, 
+decided to look into fusion research after reading a scientific fraud article 
+about fusion breakthrough achieved in Argentina in 1951.
 
 #FusionFriday
 https://twitter.com/formbar/status/966947025655824384
 
 (7) 2018-03-02   + self-made diagram
-The fusion triple product, also known as Lawson criterion, combines the 3 global quantities relevant for a burning plasma: density, temperature and energy confinement time. Their product needs to overcome a certain threshold for ignition (and we are getting close)
+The fusion triple product, also known as Lawson criterion, combines the 3 global 
+quantities relevant for a burning plasma: density, temperature and energy 
+confinement time. Their product needs to overcome a certain threshold for 
+ignition (and we are getting close)
 #FusionFriday 
 https://twitter.com/formbar/status/969499616138944512
 
 (8) 2018-03-09
-In 1968, the Soviet tokamak T3 reported a record temperature of 2 keV, that is 22 Mio degrees. The fusion community was sceptical, so they were invited to T3 to do their own measurements. The values were confirmed and a lot of labs switched to researching tokamak.
+In 1968, the Soviet tokamak T3 reported a record temperature of 2 keV, that is 
+22 Mio degrees. The fusion community was sceptical, so they were invited to T3 
+to do their own measurements. The values were confirmed and a lot of labs 
+switched to researching tokamak.
 #FusionFriday
 https://twitter.com/formbar/status/972028102783184896
 
 (9) 2018-03-16
-The Q-value is an often used measure in fusion research: it is the fusion power produced in a reactor divided by the applied external heating power. In 1997 a record value of Q=0.67 was achieved in the JET tokamak (fusion output: 16 MW). ITER is aiming at Q=10.
+The Q-value is an often used measure in fusion research: it is the fusion power 
+produced in a reactor divided by the applied external heating power. In 1997 a 
+record value of Q=0.67 was achieved in the JET tokamak (fusion output: 16 MW). 
+ITER is aiming at Q=10.
 #FusionFriday
 https://twitter.com/formbar/status/974552522760192000
 
 (10) 2018-03-23
-In ITER, we will initiate the fusion of Deuterium and Tritium. There are only 2 other tokamaks where this has been done so far: TFTR (USA) and JET (UK). The maximum thermal fusion output in TFTR was 10.7 MW (1994) and in JET 16 MW (1997). ITER is aiming at 500 MW. 
+In ITER, we will initiate the fusion of Deuterium and Tritium. There are only 2 
+other tokamaks where this has been done so far: TFTR (USA) and JET (UK). The 
+maximum thermal fusion output in TFTR was 10.7 MW (1994) and in JET 16 MW (1997). 
+ITER is aiming at 500 MW. 
 #FusionFriday
 https://twitter.com/formbar/status/977087743665868801
 
 (11) 2018-03-30
-The German stellarator family "Wendelstein" is named after a mountain in Bavaria. The physicists were inspired (i.e. they found it funny) by American colleagues: they called their stellarator project "Project Matterhorn". Wendelstein 1 was operated in the 1960s.
+The German stellarator family "Wendelstein" is named after a mountain in Bavaria. 
+The physicists were inspired (i.e. they found it funny) by American colleagues: 
+they called their stellarator project "Project Matterhorn". Wendelstein 1 was 
+operated in the 1960s.
 #FusionFriday
 https://twitter.com/formbar/status/979667699914756101
 
 (12) 2018-04-06
-The plasma-beta is the ratio of kinetic pressure (plasma density times temperature) to magnetic field pressure. It is an important quantity as it basically describes how much plasma you get per magnetic field, the more the better.
+The plasma-beta is the ratio of kinetic pressure (plasma density times 
+temperature) to magnetic field pressure. It is an important quantity as it 
+basically describes how much plasma you get per magnetic field, the more the better.
 #FusionFriday
 https://twitter.com/formbar/status/982206129676550149
 
 (13) 2018-04-13
-The proton-proton chain is the dominant fusion reaction in the sun. Calculating the distance where the Strong force sets in, it requires 0.6 MeV to overcome the Coulomb repulsion. The sun's temperature is however only 1 keV. Solution: Tunneling + Maxwellian tail.
+The proton-proton chain is the dominant fusion reaction in the sun. Calculating 
+the distance where the Strong force sets in, it requires 0.6 MeV to overcome 
+the Coulomb repulsion. The sun's temperature is however only 1 keV. Solution: 
+Tunneling + Maxwellian tail.
 #FusionFriday
 https://twitter.com/formbar/status/984744783896866817
 
 (14) 2018-04-20
-In the D+T fusion reaction, only 20 % of the released energy is stored in the He nucleus (the neutron takes the remaining 80 %). Thus, only 20 % of the released energy can be used for further plasma heating. This is why good confinement is vital for a reactor.
+In the D+T fusion reaction, only 20 % of the released energy is stored in the He 
+nucleus (the neutron takes the remaining 80 %). Thus, only 20 % of the released 
+energy can be used for further plasma heating. This is why good confinement is 
+vital for a reactor.
 #FusionFriday
 https://twitter.com/formbar/status/987234849302962176
 
 (15) 2018-04-27
-Two of three plasma conditions for a fusion reactor have long been fulfilled, the plasma density and temperature. What we are still working on is the energy confinement time. ITER will push this value to allow for a net energy outcome.
+Two of three plasma conditions for a fusion reactor have long been fulfilled, 
+the plasma density and temperature. What we are still working on is the energy 
+confinement time. ITER will push this value to allow for a net energy outcome.
 #FusionFriday
 https://twitter.com/formbar/status/989775953910956032
 
 (16) 2018-05-04
-A plasma consists of charged particles. This is why magnetic fields can be used to confine it. The most successful magnetic confinement concepts are the stellarator and tokamak, where the tokamak is (in performance) one generation ahead of the stellarator. 
+A plasma consists of charged particles. This is why magnetic fields can be used 
+to confine it. The most successful magnetic confinement concepts are the 
+stellarator and tokamak, where the tokamak is (in performance) one generation 
+ahead of the stellarator. 
 #FusionFriday
 https://twitter.com/formbar/status/992331112751001600
 
 (17) 2018-05-11
-The magnetic field configuration in a tokamak is created by external coils and a strong current flowing in the plasma, whereas in a stellarator only external coils are used. The first one is simpler to construct, the latter more suitable for steady-state operation.
+The magnetic field configuration in a tokamak is created by external coils and 
+a strong current flowing in the plasma, whereas in a stellarator only external 
+coils are used. The first one is simpler to construct, the latter more suitable 
+for steady-state operation.
 #FusionFriday
 https://twitter.com/formbar/status/994854172209098753
 
 (18) 2018-06-08
-The world largest stellarator, Wendelstein W7-X, is currently in its 2nd phase of operation. Despite the fact that full operation is scheduled for the 3rd phase, it has very recently achieved a world record triple product value for stellarators.
+The world largest stellarator, Wendelstein W7-X, is currently in its 2nd phase 
+of operation. Despite the fact that full operation is scheduled for the 3rd 
+phase, it has very recently achieved a world record triple product value for 
+stellarators.
 #FusionFriday
 https://twitter.com/formbar/status/1004994955557908480
 
 (19) 2018-06-15
-The dominant loss mechanisms in tokamak & stellarator are due to small-scale turbulence driven by strong gradients in plasma pressure. They can, however, be strongly reduced by a self-organized state, called the H-mode. For this you need: heating power, divertor.
+The dominant loss mechanisms in tokamak & stellarator are due to small-scale 
+turbulence driven by strong gradients in plasma pressure. They can, however, 
+be strongly reduced by a self-organized state, called the H-mode. For this 
+you need: heating power, divertor.
 #FusionFriday
 https://twitter.com/formbar/status/1007534261459652608
 
 (20) 2018-06-22
-Where a conventional tokamak looks like a donut, a spherical tokamak looks like a cored apple. The latter has lower magnetic fields, but you get more plasma for it (higher plasma-ß). Due to the reduced size, however, heat fluxes to the walls are higher.
+Where a conventional tokamak looks like a donut, a spherical tokamak looks like 
+a cored apple. The latter has lower magnetic fields, but you get more plasma for 
+it (higher plasma-ß). Due to the reduced size, however, heat fluxes to the walls 
+are higher.
 #FusionFriday
 https://twitter.com/formbar/status/1010113908487720960
 
 (21) 2018-06-29
-In a classical stellarator, coils wind helically around the torus creating a twisted magnetic field. In the early days, this was done by bending the whole vacuum vessel into a shape like an 8, hence the name "Figure-8 stellarator". 
+In a classical stellarator, coils wind helically around the torus creating a 
+twisted magnetic field. In the early days, this was done by bending the whole 
+vacuum vessel into a shape like an 8, hence the name "Figure-8 stellarator". 
 #FusionFriday
 https://twitter.com/formbar/status/1012629972643733504
 
 (22) 2018-07-06
-Charge particles move in spirals around a magnetic field line. If the magnetic field strength increases along the particles trajectory, their gyration frequency increases with the result that the velocity parallel to B decreases. That's how magnetic mirrors work.
+Charge particles move in spirals around a magnetic field line. If the magnetic 
+field strength increases along the particles trajectory, their gyration 
+frequency increases with the result that the velocity parallel to B decreases. 
+That's how magnetic mirrors work.
 #FusionFriday
 https://twitter.com/formbar/status/1015150534284767232
 
 (23) 2018-07-13
-Particles in a tokamak can be trapped in the magnetic field. Those particles no longer make full toroidal turns. Projecting their orbits into a plane, they look like a certain fruit, hence the name banana orbits.
+Particles in a tokamak can be trapped in the magnetic field. Those particles 
+no longer make full toroidal turns. Projecting their orbits into a plane, they 
+look like a certain fruit, hence the name banana orbits.
 #FusionFriday
 https://twitter.com/formbar/status/1017702886397095937
 
 (24) 2018-07-20
-ITER will allow to investigate plasmas where a substantial amount of the heating power comes from the alpha particles produced in the D+T fusion reaction. Especially how they resonate with certain types of plasma waves will be interesting to investigate.
+ITER will allow to investigate plasmas where a substantial amount of the 
+heating power comes from the alpha particles produced in the D+T fusion 
+reaction. Especially how they resonate with certain types of plasma waves will 
+be interesting to investigate.
 #FusionFriday
 https://twitter.com/formbar/status/1020213758956900352
 
 (25) 2018-07-27
-You think it's hot out there? Well, the solar core has approximately 15 million degrees Celsius (or kelvin, whatever you prefer), which is not bad. ITER, however, will have 150 million degrees celsius (already achieved by nowadays experiments). That's hot.
+You think it's hot out there? Well, the solar core has approximately 15 million 
+degrees Celsius (or kelvin, whatever you prefer), which is not bad. ITER, 
+however, will have 150 million degrees celsius (already achieved by nowadays 
+experiments). That's hot.
 #FusionFriday
 https://twitter.com/formbar/status/1022776681021546496
 
 (26) 2018-08-03
-The divertor is a key component in a fusion experiment: it basically serves as a first wall contact area for the plasma. It is thus designed to withstand high heat fluxes of up to 10 MW/m^2 (steady state) as expected in ITER. 
+The divertor is a key component in a fusion experiment: it basically serves as a 
+first wall contact area for the plasma. It is thus designed to withstand high 
+heat fluxes of up to 10 MW/m^2 (steady state) as expected in ITER. 
 #FusionFriday
 https://twitter.com/formbar/status/1025286251426013184
 
 (27) 2018-08-10
-A 1 GW coal power plant consumes roughly 2,700,000,000 kg coal per year. A 1 GW fusion power plant would require approximately 150 kg of Deuterium and 100 kg of Tritium.
+A 1 GW coal power plant consumes roughly 2,700,000,000 kg coal per year. A 1 GW 
+fusion power plant would require approximately 150 kg of Deuterium and 100 kg 
+of Tritium.
 #FusionFriday
 https://twitter.com/formbar/status/1027819939699281922
 
 (28) 2018-08-17
-Fusion research is an international effort since its early days: in 1958, when Cold War was about to peak, it was decided to completely declassify fusion research at the famous Atoms for Peace conference in Genova.
+Fusion research is an international effort since its early days: in 1958, when 
+Cold War was about to peak, it was decided to completely declassify fusion 
+research at the famous Atoms for Peace conference in Genova.
 #FusionFriday
 https://twitter.com/formbar/status/1030357149854195712
 
 (29) 2018-08-25
-The hydrogen isotopes Deuterium & Tritium will be used in fusion reactors. Deuterium can be simply extracted from water but Tritium is radioactive with a decay time of only 12 years, it therefore needs to be bred from Lithium in the walls of the fusion reactor.
+The hydrogen isotopes Deuterium & Tritium will be used in fusion reactors. 
+Deuterium can be simply extracted from water but Tritium is radioactive with a 
+decay time of only 12 years, it therefore needs to be bred from Lithium in the 
+walls of the fusion reactor.
 #FusionFriday
 https://twitter.com/formbar/status/1033113377311285249
 
 (30) 2018-08-31
-The tokamak, being relatively simple in design, has converged in shape and configuration over the last decades towards ITER. For the stellarator, on the other hand, a number of different configurations exists and it is not yet clear which one is the best.
+The tokamak, being relatively simple in design, has converged in shape and 
+configuration over the last decades towards ITER. For the stellarator, on the 
+other hand, a number of different configurations exists and it is not yet clear 
+which one is the best.
 #FusionFriday
 https://twitter.com/formbar/status/1035424221856493568
 
 (31) 2018-09-07
-In a fusion reactor, one of the fuel components, Tritium, will be bred from Lithium in the walls. To ensure a sufficient Tritium production rate during operation, a neutron multiplier in the walls is needed. Beryllium will be used for this. 
+In a fusion reactor, one of the fuel components, Tritium, will be bred from 
+Lithium in the walls. To ensure a sufficient Tritium production rate during 
+operation, a neutron multiplier in the walls is needed. Beryllium will be used 
+for this. 
 #FusionFriday
 https://twitter.com/formbar/status/1037979138903220224
 
 (32) 2018-09-14
-In the D+T fusion process, an alpha particle and a neutron are created. The neutron carries 80 % of the released kinetic energy. Since it is not charged, it can easily escape the plasma and heat up the wall. This is how the energy is extracted in a fusion reactor.
+In the D+T fusion process, an alpha particle and a neutron are created. The 
+neutron carries 80 % of the released kinetic energy. Since it is not charged, 
+it can easily escape the plasma and heat up the wall. This is how the energy is 
+extracted in a fusion reactor.
 #FusionFriday
 https://twitter.com/formbar/status/1040489470842335232
 
 (33) 2018-09-21
-The magnetic field lines in a tokamak and a stellarator have to be twisted (like a screw). Otherwise, there would be no confinement as drift motion would lead to a charge separation of electrons & ions and the resulting electric field would push the plasma outwards.
+The magnetic field lines in a tokamak and a stellarator have to be twisted 
+(like a screw). Otherwise, there would be no confinement as drift motion would 
+lead to a charge separation of electrons & ions and the resulting electric 
+field would push the plasma outwards.
 #FusionFriday
 https://twitter.com/formbar/status/1043046303222128640
 
 (34) 2018-09-28
-A plasma is a (partly or fully) ionized gas. The charged particles' E-fields lead to long-range Coulomb interactions, a major difference to a neutral gas where direct collisions dominate. The consequence are collective motions that do not exist in a neutral gas.
+A plasma is a (partly or fully) ionized gas. The charged particles' E-fields 
+lead to long-range Coulomb interactions, a major difference to a neutral gas 
+where direct collisions dominate. The consequence are collective motions that 
+do not exist in a neutral gas.
 #FusionFriday
 https://twitter.com/formbar/status/1045569720655794176
 
 (35) 2018-10-05
-This year's @NobelPrize in physics was partly awarded for the method of chirped pulse amplification, that is a method to generate very intense and very short laser pulses. Inertial fusion concepts rely on this idea.
+This year's @NobelPrize in physics was partly awarded for the method of chirped 
+pulse amplification, that is a method to generate very intense and very short 
+laser pulses. Inertial fusion concepts rely on this idea.
 #FusionFriday
 https://twitter.com/formbar/status/1048134548813504512
 
 (36) 2018-10-12   + self-made diagram
-ITER has released an updated research plan a few days ago. First plasma is scheduled for 2025, first DT plasma for 2035.
+ITER has released an updated research plan a few days ago. First plasma is 
+scheduled for 2025, first DT plasma for 2035.
 #FusionFriday
 https://twitter.com/formbar/status/1050646117392633856
 
 (37) 2018-10-19
-Plasma disruptions are the sudden loss of confinement in a tokamak due to instabilities. Large plasma currents inherent to a tokamak induce then currents in the vessel leading to strong mechanical stress. This is why every tokamak has a disruption mitigation system.
+Plasma disruptions are the sudden loss of confinement in a tokamak due to 
+instabilities. Large plasma currents inherent to a tokamak induce then currents 
+in the vessel leading to strong mechanical stress. This is why every tokamak 
+has a disruption mitigation system.
 #FusionFriday
 https://twitter.com/formbar/status/1053173942486290432
 
 (38) 2018-10-26
-The last Deuterium-Tritium (the fusion-fuel) experiments were performed at the world largest tokamak JET (UK) in 1997. After a series of upgrades, another D-T campaign is scheduled for next year in preparation for ITER. Of particular interest is the ITER-like wall. 
+The last Deuterium-Tritium (the fusion-fuel) experiments were performed at the 
+world largest tokamak JET (UK) in 1997. After a series of upgrades, another D-T 
+campaign is scheduled for next year in preparation for ITER. Of particular 
+interest is the ITER-like wall. 
 #FusionFriday
 https://twitter.com/formbar/status/1055720398736764933
 
 (39) 2018-11-02   + self-made plot
-Shown is the triple product as a function of the central ion temperature. It combines the 3 important global quantities for a fusion plasma: density, temperature, and energy confinement time. So far, the tokamak is the most successful concept.
+Shown is the triple product as a function of the central ion temperature. It 
+combines the 3 important global quantities for a fusion plasma: density, 
+temperature, and energy confinement time. So far, the tokamak is the most 
+successful concept.
 #FusionFriday
 https://twitter.com/formbar/status/1058271676037844993
 
 (40) 2018-11-09
-Lyman Spitzer, the farther of the stellarator, once said that he got the idea for the stellarator during a skiing trip when eating (and closely looking at) a pretzel.
+Lyman Spitzer, the farther of the stellarator, once said that he got the idea 
+for the stellarator during a skiing trip when eating (and closely looking at) 
+a pretzel.
 #FusionFriday
 https://twitter.com/formbar/status/1060888886715539456
 
 (41) 2018-11-16
-Electric fields of nuclei deflect passing electrons. Being decelerated, the electrons lose kinetic energy which is emitted as electromagnetic radiation. Higher atomic number results in stronger losses. This is why impurities have to be kept low in fusion plasmas.
+Electric fields of nuclei deflect passing electrons. Being decelerated, the 
+electrons lose kinetic energy which is emitted as electromagnetic radiation. 
+Higher atomic number results in stronger losses. This is why impurities have 
+to be kept low in fusion plasmas.
 #FusionFriday
 https://twitter.com/formbar/status/1063352712715296768
 
 (42) 2018-11-23
-Lev Artsimovich, known as the farther of the tokamak, once said that fusion will be ready when society needs it, maybe a little bit before that.
+Lev Artsimovich, known as the farther of the tokamak, once said that fusion 
+will be ready when society needs it, maybe a little bit before that.
 #FusionFriday
 
 (Also, today is #FusionFriday number 42! Celebrate!)
 https://twitter.com/formbar/status/1065877839164116992
 
 (43) 2018-11-30
-Cross sections of plasmas in tokamaks are not circular but elongated in the vertical direction,often D-shaped. The reason is to have a shear at the outboard side, i.e. a change of the inclination of the magnetic field line with the radius. This improves confinement.
+Cross sections of plasmas in tokamaks are not circular but elongated in the 
+vertical direction,often D-shaped. The reason is to have a shear at the 
+outboard side, i.e. a change of the inclination of the magnetic field line 
+with the radius. This improves confinement.
 #FusionFriday
 https://twitter.com/formbar/status/1068494432352305158
 
 (44) 2018-12-07   + self-made plot
-Stellarators were outperformed by tokamaks in the 1970s. Improved understanding and computational power, however, helped the stellarators to catch up. W7-X aims to achieve the same performance as tokamaks. The map shows the stellarators across the world.
+Stellarators were outperformed by tokamaks in the 1970s. Improved understanding 
+and computational power, however, helped the stellarators to catch up. W7-X 
+aims to achieve the same performance as tokamaks. The map shows the stellarators 
+across the world.
 #FusionFriday
 https://twitter.com/formbar/status/1071001638125613056
 
 (45) 2018-12-14
-ELMs, edge-localized modes, are periodic relaxations of the plasma pressure at the edge, where profiles are steep. Like solar eruptions, they can eject a significant amount of particles & energy, a threat for the wall. Controlling them is an active research area.
+ELMs, edge-localized modes, are periodic relaxations of the plasma pressure at 
+the edge, where profiles are steep. Like solar eruptions, they can eject a 
+significant amount of particles & energy, a threat for the wall. Controlling 
+them is an active research area.
 #FusionFriday
 https://twitter.com/formbar/status/1073534393338212352
 
 (46) 2018-12-21   + self-made pic
-The optimum temperature for a sustained D-T fusion process in a magnetically confined plasmas, like in a tokamak or stellarator, is approximately at 150 Mio Kelvin - roughly 10 times hotter than the sun's core
+The optimum temperature for a sustained D-T fusion process in a magnetically 
+confined plasmas, like in a tokamak or stellarator, is approximately at 150 
+Mio Kelvin - roughly 10 times hotter than the sun's core
 
 Also: Thanks for reading and a Merry Christmas :)
 
@@ -238,67 +357,99 @@ Also: Thanks for reading and a Merry Christmas :)
 https://twitter.com/formbar/status/1076030208644390914
 
 (47) 2018-12-28
-One of the fusion research highlights in 2018 was certainly the world record performance (for a stellarator) achieved in W7-X.
-W7-X is currently upgraded such that in its next operational phase, it should break that record value.
+One of the fusion research highlights in 2018 was certainly the world record 
+performance (for a stellarator) achieved in W7-X. W7-X is currently upgraded 
+such that in its next operational phase, it should break that record value.
 #FusionFriday
 https://twitter.com/formbar/status/1078635718333861888
 
 (48) 2019-01-04
 Happy New Year everybody!
 
-In 2019, MAST-Upgrade, will start its operation. It is a spherical tokamak located at Culham, UK (also home of JET). Among other things it will look into new concepts for the divertor, which basically is the fusion devices' heat exhaust.
+In 2019, MAST-Upgrade, will start its operation. It is a spherical tokamak 
+located at Culham, UK (also home of JET). Among other things it will look 
+into new concepts for the divertor, which basically is the fusion devices' 
+heat exhaust.
 #FusionFriday
 https://twitter.com/formbar/status/1081098615026827264
 
 (49) 2019-01-11
-W7-X, the world largest stellarator, is currently being upgraded. Among other things, it will get a cooled divertor (fusion devices' heat exhaust), allowing for higher heat loads and thus more energy stored in the plasma. Operation is planned to be resumed in 2020.
+W7-X, the world largest stellarator, is currently being upgraded. Among other 
+things, it will get a cooled divertor (fusion devices' heat exhaust), allowing 
+for higher heat loads and thus more energy stored in the plasma. Operation is 
+planned to be resumed in 2020.
 #FusionFriday
 https://twitter.com/formbar/status/1083660125708136453
 
 (50) 2019-01-18
-Microwaves range play an indispensable role in fusion for diagnostic & heating purposes. Microwaves emitted from the plasma can for example be studied for information about the local temperature. Local power deposition in the MW range helps to control instabilities.
+Microwaves range play an indispensable role in fusion for diagnostic & heating 
+purposes. Microwaves emitted from the plasma can for example be studied for 
+information about the local temperature. Local power deposition in the MW range 
+helps to control instabilities.
 #FusionFriday
 https://twitter.com/formbar/status/1086192594701438981
 
 (51) 2019-01-25
-There exists a variety of books about fusion research. One of those, "Fusion Physics", is freely available at the @iaeaorg
- homepage: https://www-pub.iaea.org/books/iaeabooks/8879/fusion-physics 
-But note: it has over 1000 pages full of interesting fusion stuff, so it might keep you busy for a few days.
+There exists a variety of books about fusion research. One of those, "Fusion 
+Physics", is freely available at the @iaeaorg homepage: 
+https://www-pub.iaea.org/books/iaeabooks/8879/fusion-physics 
+But note: it has over 1000 pages full of interesting fusion stuff, so it 
+might keep you busy for a few days.
 #FusionFriday
 https://twitter.com/formbar/status/1088734235492601856
 
 (52) 2019-02-01
-Trouble to find the relevant formula when you are in desperate need to calculate the resistivity of a plasma or its degree of ionization? Problems converting between SI and Gaussian units? Then this is for you: the NRL Plasma Formulary https://nrl.navy.mil/ppd/sites/www.nrl.navy.mil.ppd/files/pdfs/NRL_FORMULARY_18.pdf
+Trouble to find the relevant formula when you are in desperate need to calculate 
+the resistivity of a plasma or its degree of ionization? Problems converting 
+between SI and Gaussian units? Then this is for you: the NRL Plasma Formulary 
+https://nrl.navy.mil/ppd/sites/www.nrl.navy.mil.ppd/files/pdfs/NRL_FORMULARY_18.pdf
 #FusionFriday
 https://twitter.com/formbar/status/1091247179442855936
 
 (53) 2019-02-08   + self-made map
-There are approximately 10 stellarators and 3 times as much conventional tokamaks in operation across the world. Have a look at the map and then decide which one you want to join :)
+There are approximately 10 stellarators and 3 times as much conventional 
+tokamaks in operation across the world. Have a look at the map and then decide 
+which one you want to join :)
 #FusionFriday
 https://twitter.com/formbar/status/1093786741960568832
 
 (54) 2019-02-15
-The tokamak is currently the most successful concept for a fusion reactor. More than 200 tokamaks have been operated around the world and roughly 30 are still in operation. They are all listed on this site including a nice poster: http://tokamak.info
+The tokamak is currently the most successful concept for a fusion reactor. More 
+than 200 tokamaks have been operated around the world and roughly 30 are still 
+in operation. They are all listed on this site including a nice poster: 
+http://tokamak.info
 #FusionFriday
 https://twitter.com/formbar/status/1096336024668684288
 
 (55) 2019-02-22   + GIF
-Turbulence is an ubiquitous phenomenon in nature (see e.g. the gif). While neutral fluids often exhibit 3D turbulent behavior, fusion plasmas exhibit 2D behavior. The reason is the background magnetic field, imposing a constraint in the direction of motion.
+Turbulence is an ubiquitous phenomenon in nature (see e.g. the gif). While 
+neutral fluids often exhibit 3D turbulent behavior, fusion plasmas exhibit 2D 
+behavior. The reason is the background magnetic field, imposing a constraint in 
+the direction of motion.
 #FusionFriday
 https://twitter.com/formbar/status/1098864619291070465
 
 (56) 2019-03-01
-A main difference between stellarator & tokamak is the strong current on the order of MA flowing in a tokamak. Pro: it creates part of the magnetic field and provides a heating mechanism (not sufficient for fusion though). Con: instabilities are triggered by it.
+A main difference between stellarator & tokamak is the strong current on the 
+order of MA flowing in a tokamak. Pro: it creates part of the magnetic field 
+and provides a heating mechanism (not sufficient for fusion though). Con: 
+instabilities are triggered by it.
 #FusionFriday
 https://twitter.com/formbar/status/1101413915211239424
 
 (57) 2019-03-08
-The first wall in a fusion reactor must withstand high heat fluxes coming from fusion neutrons and electromagnetic radiation emitted by the plasma. Tungsten is currently a favored candidate (high melting point, low neutron-induced activation, low tritium retention).
+The first wall in a fusion reactor must withstand high heat fluxes coming from 
+fusion neutrons and electromagnetic radiation emitted by the plasma. Tungsten 
+is currently a favored candidate (high melting point, low neutron-induced 
+activation, low tritium retention).
 #FusionFriday
 https://twitter.com/formbar/status/1103956935173464064
 
 (58) 2019-03-15   + GIF
-Computational modeling of fusion plasmas is very challenging: scales to be covered range from micrometers to meters and picoseconds to minutes. With largest supercomputers available, our understanding was pushed forward by modelling and still is.
+Computational modeling of fusion plasmas is very challenging: scales to be 
+covered range from micrometers to meters and picoseconds to minutes. With 
+largest supercomputers available, our understanding was pushed forward by 
+modelling and still is.
 #FusionFriday
 
 (GIF: Waltz/Candy)
@@ -306,324 +457,707 @@ https://twitter.com/formbar/status/1106465040285212672
 --> by far the most successful tweet: 39 Retweets, 104 Likes (as of 2020-05-06)
 
 (59) 2019-03-22   + graphic from EUROfusion
-DEMO (Demonstration Power Station) is the step between ITER and a fusion power plant. DEMO is aiming on fuel self-sufficiency - ITER is fueled externally- and net electrical output. (Graphic: @FusionInCloseUp)
+DEMO (Demonstration Power Station) is the step between ITER and a fusion power 
+plant. DEMO is aiming on fuel self-sufficiency - ITER is fueled externally- and 
+net electrical output. (Graphic: @FusionInCloseUp)
 #FusionFriday
 https://twitter.com/formbar/status/1108979860549046272
 
 (60) 2019-03-29   + GIF
-Pellets are frozen hydrogen ice cubes (-260° C) injected into a fusion plasma with ~1 km/s. The serve 3 purposes: re-fueling the plasma, probing it (watching it evaporating), and suppressing instabilities. 
+Pellets are frozen hydrogen ice cubes (-260° C) injected into a fusion plasma 
+with ~1 km/s. The serve 3 purposes: re-fueling the plasma, probing it (watching 
+it evaporating), and suppressing instabilities. 
 Ice and fire (not necessarily a song, though).
 #FusionFriday
 https://twitter.com/formbar/status/1111546814115864576
 
 (61) 2019-04-05
-The China Fusion Engineering Test Reactor (CFETR) is a tokamak similar to ITER. It is designed to show net energy release, tritium self-sufficiency, and connection to the grid. The project currently awaits the final decision of the Chinese government on the budget. 
+The China Fusion Engineering Test Reactor (CFETR) is a tokamak similar to ITER. 
+It is designed to show net energy release, tritium self-sufficiency, and 
+connection to the grid. The project currently awaits the final decision of the 
+Chinese government on the budget. 
 #FusionFriday
 https://twitter.com/formbar/status/1114077242500448256
 
 (62) 2019-04-12
-The research center IFMIF-DONES, located in Granada (Spain), will play an important role in fusion research: its task is to test and validate materials to be used in fusion reactors. It will use a neutron source with an energy spectrum similar to fusion neutrons.
+The research center IFMIF-DONES, located in Granada (Spain), will play an 
+important role in fusion research: its task is to test and validate materials 
+to be used in fusion reactors. It will use a neutron source with an energy 
+spectrum similar to fusion neutrons.
 #FusionFriday
 https://twitter.com/formbar/status/1116659105295425536
 
 (63) 2019-04-19
-JT-60SA, located in Japan, is a large-scale tokamak of similar size to JET, the world largest tokamak. JT-60SA is scheduled to start operation late 2020 with its mission to support & complement ITER in resolving key physics & engineering issues for DEMO.
+JT-60SA, located in Japan, is a large-scale tokamak of similar size to JET, the 
+world largest tokamak. JT-60SA is scheduled to start operation late 2020 with 
+its mission to support & complement ITER in resolving key physics & engineering 
+issues for DEMO.
 #FusionFriday
 https://twitter.com/formbar/status/1119210537844396032
 
 (64) 2019-04-26
-The Large Helical Device (LHD) is Japan's largest stellarator and was the world largest from 1998 - 2015 until W7-X started operation. LHD is a stellarator of type heliotron/torsatron which exhibits a different magnetic field coil set-up than a classical stellarator
+The Large Helical Device (LHD) is Japan's largest stellarator and was the world 
+largest from 1998 - 2015 until W7-X started operation. LHD is a stellarator of 
+type heliotron/torsatron which exhibits a different magnetic field coil set-up 
+than a classical stellarator
 #FusionFriday
 https://twitter.com/formbar/status/1121697275720368128
 
 (65) 2019-05-03
-Blankets are modules covering the inner wall of a fusion reactor. They serve 2 purposes: slowing down the neutrons generated in the fusion process & transforming their energy into heat, and breeding tritium which is, together with deuterium, the fusion fuel.
+Blankets are modules covering the inner wall of a fusion reactor. They serve 2 
+purposes: slowing down the neutrons generated in the fusion process & 
+transforming their energy into heat, and breeding tritium which is, together 
+with deuterium, the fusion fuel.
 #FusionFriday
 https://twitter.com/formbar/status/1124215181033259009
 
 (66) 2019-05-10   + GIF
-In inertial confinement fusion (ICF), lasers are used to compress a pellet of fusion fuel, D+T. In contrast to magnetic confinement fusion, very high plasma densities but small confinement times are achieved: fusion happens before the particles can move apart.
+In inertial confinement fusion (ICF), lasers are used to compress a pellet of 
+fusion fuel, D+T. In contrast to magnetic confinement fusion, very high plasma 
+densities but small confinement times are achieved: fusion happens before the 
+particles can move apart.
 #FusionFriday
 https://twitter.com/formbar/status/1126757976478326785
 
 (67) 2019-05-17
-A number of privately funded companies exists working on their concept of a fusion reactor. The largest is TAE Technologies, whose concept is based on field-reversed configurations: relatively easy to engineer, lots of plasma per B-field, but lacking performance.
+A number of privately funded companies exists working on their concept of a 
+fusion reactor. The largest is TAE Technologies, whose concept is based on 
+field-reversed configurations: relatively easy to engineer, lots of plasma per 
+B-field, but lacking performance.
 #FusionFriday
 https://twitter.com/formbar/status/1129304106366119937
 
 (68) 2019-05-24
-Tokamak Energy is another privately funded company trying to realize fusion. They are following the spherical tokamak concept where you get a lot of plasma per magnetic field (high plasma-ß) due to its compact size. Heat fluxes to the wall are problematic, though.
+Tokamak Energy is another privately funded company trying to realize fusion. 
+They are following the spherical tokamak concept where you get a lot of plasma 
+per magnetic field (high plasma-ß) due to its compact size. Heat fluxes to the 
+wall are problematic, though.
 #FusionFriday
 https://twitter.com/formbar/status/1131825058387832837
 
 (69) 2019-05-31
-Wendelstein W7-AS was the predecessor of W7-X, the world largest stellarator. It was operated from 1988-2002 in Garching. W7-AS was the first stellarator to use modular coils instead of continuously wound coils around the torus. 
+Wendelstein W7-AS was the predecessor of W7-X, the world largest stellarator. 
+It was operated from 1988-2002 in Garching. W7-AS was the first stellarator to 
+use modular coils instead of continuously wound coils around the torus. 
 #FusionFriday
 https://twitter.com/formbar/status/1134461503615246336
 
 (70) 2019-06-07
-The world largest stellarator W7-X is currently getting an upgrade. The operation will continue in 2021 with a fully cooled divertor, basically the plasma's exhaust. Together with a number of further upgrades, this will allow for steady state operation (30 min).
+The world largest stellarator W7-X is currently getting an upgrade. The 
+operation will continue in 2021 with a fully cooled divertor, basically the 
+plasma's exhaust. Together with a number of further upgrades, this will allow 
+for steady state operation (30 min).
 #FusionFriday
 https://twitter.com/formbar/status/1137083151627554817
 
 (71) 2019-06-14
-Neutral beam injection is a method to heat a plasma: neutral particles with energies in the 100 keV range are injected into the plasma and are immediately ionized via collisions with electrons or ions. Further collisions result in energy transfer to the plasma.
+Neutral beam injection is a method to heat a plasma: neutral particles with 
+energies in the 100 keV range are injected into the plasma and are immediately 
+ionized via collisions with electrons or ions. Further collisions result in 
+energy transfer to the plasma.
 #FusionFriday
 https://twitter.com/formbar/status/1139537573607612417
 
 (72) 2019-06-21   + GIF
-In inertial confinement fusion, a Deuterium-Tritium pellet is compressed on very short time scales (too fast for the ions to move apart) to densities high enough for fusion to happen. Lasers or ion-beams are often used to directly or indirectly compress the pellet.
+In inertial confinement fusion, a Deuterium-Tritium pellet is compressed on very 
+short time scales (too fast for the ions to move apart) to densities high enough 
+for fusion to happen. Lasers or ion-beams are often used to directly or 
+indirectly compress the pellet.
 #FusionFriday
 https://twitter.com/formbar/status/1141991034534187013
 
 (73) 2019-06-28
-Neutral beam injection for ITER requires particle energies above 1 MeV. Negative ion sources have to be used at these energies as neutralization of positive hydrogen ions is very inefficient. SPIDER is a prototype for ITER's ion source, located in Padova (Italy).
+Neutral beam injection for ITER requires particle energies above 1 MeV. Negative 
+ion sources have to be used at these energies as neutralization of positive 
+hydrogen ions is very inefficient. SPIDER is a prototype for ITER's ion source, 
+located in Padova (Italy).
 #FusionFriday
 https://twitter.com/formbar/status/1144531510701281280
 
 (74) 2019-07-05
-DEMO, the prototype for a commercial fusion power plant, will most likely be a tokamak. With the recent success of the W7-X, however, the stellarator is still an option. A decision will be made in the early 2030s, after ITER's first relevant results are in.
+DEMO, the prototype for a commercial fusion power plant, will most likely be a 
+tokamak. With the recent success of the W7-X, however, the stellarator is still 
+an option. A decision will be made in the early 2030s, after ITER's first 
+relevant results are in.
 #FusionFriday
 https://twitter.com/formbar/status/1147063948648296448
 
 (75) 2019-07-12
-At the #eps2019 conference, the 1st stellarator fusion start-up, Renaissance Fusion, had its 1st public appearance. Its concept is a high-field device with thick liquid metal (lithium) walls. It's supposed to be a flexible design, currently favoring axi-symmetry.
+At the #eps2019 conference, the 1st stellarator fusion start-up, Renaissance 
+Fusion, had its 1st public appearance. Its concept is a high-field device with 
+thick liquid metal (lithium) walls. It's supposed to be a flexible design, 
+currently favoring axi-symmetry.
 #fusionfriday
 https://twitter.com/formbar/status/1149682136724725763
 
 (76) 2019-07-19
-At the #eps2019 conference last week, ITER's first plasma was said to be scheduled for 23.12.2025. As of last month, project progress towards the first plasma was officially announced to stand at 63 % while 70 % of on-site buildings and infrastructure are ready.
+At the #eps2019 conference last week, ITER's first plasma was said to be 
+scheduled for 23.12.2025. As of last month, project progress towards the first 
+plasma was officially announced to stand at 63 % while 70 % of on-site buildings 
+and infrastructure are ready.
 #FusionFriday
 https://twitter.com/formbar/status/1152149287364648961
 
 (77) 2019-07-26
-Impurities in a fusion plasma (created via plasma-wall interactions) lead to strong losses via bremsstrahlung radiation. A major breakthrough was the divertor concept where plasma flow is directed to regions far away thus reducing the influence of impurities.
+Impurities in a fusion plasma (created via plasma-wall interactions) lead to 
+strong losses via bremsstrahlung radiation. A major breakthrough was the divertor 
+concept where plasma flow is directed to regions far away thus reducing the 
+influence of impurities.
 #FusionFriday
 https://twitter.com/formbar/status/1154687758000107521
 
 (78) 2019-08-02
-Helium-3 appears in pop culture often as future fuel for fusion ("Iron Sky", "Anno 2205"). No neutrons are created but protons and energy can be extracted directly from slowing them down. Required temperatures are, however, much larger and the fuel is rare on earth.
+Helium-3 appears in pop culture often as future fuel for fusion ("Iron Sky", 
+"Anno 2205"). No neutrons are created but protons and energy can be extracted 
+directly from slowing them down. Required temperatures are, however, much larger 
+and the fuel is rare on earth.
 #FusionFriday
 https://twitter.com/formbar/status/1157183253331267584
 
 (79) 2019-09-13
-General Fusion is a privately funded company trying to achieve fusion via compression: a plasma is injected into a spherical chamber surrounded by liquid metal walls. The wall is mechanically compressed (pistons), to compress the plasma to fusion conditions.
+General Fusion is a privately funded company trying to achieve fusion via 
+compression: a plasma is injected into a spherical chamber surrounded by liquid 
+metal walls. The wall is mechanically compressed (pistons), to compress the 
+plasma to fusion conditions.
 #FusionFriday
 https://twitter.com/formbar/status/1172402118688305152
 
 (80) 2019-09-20
-A reminder on the efficiency of fusion (since it's #ClimateStrike today): a 1GW fusion power plant would need 100 kg deuterium + 150 kg tritium (the fusion fuel) per year, compared to 2700000000 kg coal.
+A reminder on the efficiency of fusion (since it's #ClimateStrike today): a 1GW 
+fusion power plant would need 100 kg deuterium + 150 kg tritium (the fusion 
+fuel) per year, compared to 2700000000 kg coal.
 #FusionFriday
 https://twitter.com/formbar/status/1174933854282342400
 
 (81) 2019-09-27
-The youngest tokamak in the family, a small-scale spherical tokamak at the DTU Copenhagen, got a name, NORTH. Its goal is to teach students fundamentals about plasma diagnostics and fusion devices such that they are prepared for the large-scale machines.
+The youngest tokamak in the family, a small-scale spherical tokamak at the DTU 
+Copenhagen, got a name, NORTH. Its goal is to teach students fundamentals about 
+plasma diagnostics and fusion devices such that they are prepared for the 
+large-scale machines.
 #FusionFriday
 https://twitter.com/formbar/status/1177490312412852225
 
 (82) 2019-10-04
-Currently there are approximately 25 privately funded companies working on realizing fusion. Get an overview here: http://julien.hillairet.free.fr/wiki/doku.php?id=list_of_fusion_startups (via @HillairetJulien)
+Currently there are approximately 25 privately funded companies working on 
+realizing fusion. Get an overview here: 
+http://julien.hillairet.free.fr/wiki/doku.php?id=list_of_fusion_startups (via 
+@HillairetJulien)
 #FusionFriday
 https://twitter.com/formbar/status/1180055787084890114
 
 (83) 2019-10-11
-The UK Government has just announced to spend 220 M£ over the next 5 years for designing a fusion power plant based on the spherical tokamak design. The project is called STEP and aims on constructing a power plant by 2040.
+The UK Government has just announced to spend 220 M£ over the next 5 years for 
+designing a fusion power plant based on the spherical tokamak design. The 
+project is called STEP and aims on constructing a power plant by 2040.
 #FusionFriday
 https://twitter.com/formbar/status/1182560309388730368
 
 (84) 2019-10-18
-Plasma are basically ionized gases. Consisting of freely moving charges, the conductivity of a plasma can be very high. It depends on the charge density and energy and can even exceed the conductivity of copper.
+Plasma are basically ionized gases. Consisting of freely moving charges, the 
+conductivity of a plasma can be very high. It depends on the charge density and 
+energy and can even exceed the conductivity of copper.
 #FusionFriday
 https://twitter.com/formbar/status/1185099880546623488
 
 (85) 2019-11-01   + GIF
-ITER's cryostat is basically an enormous fridge, it's role is to provide a thermal insulation for the superconducting magnets operating at 4.5 K. It's made of stainless steel and has a weight of roughly 3500 tons. It's also a gigantic vacuum vessel (8500 m^3).
+ITER's cryostat is basically an enormous fridge, it's role is to provide a 
+thermal insulation for the superconducting magnets operating at 4.5 K. It's made 
+of stainless steel and has a weight of roughly 3500 tons. It's also a gigantic 
+vacuum vessel (8500 m^3).
 #FusionFriday
 https://twitter.com/i/status/1190198850511921152
 
 (86) 2019-11-08
-A large tokamak will be built in Italy, near Rome. The Divertor Tokamak Test Facility (DTT) will investigate various power exhaust possibilities for DEMO (the fusion power plant prototype). First plasma is planned for late 2025/early 2026.
+A large tokamak will be built in Italy, near Rome. The Divertor Tokamak Test 
+Facility (DTT) will investigate various power exhaust possibilities for DEMO 
+(the fusion power plant prototype). First plasma is planned for late 
+2025/early 2026.
 #FusionFriday
 https://twitter.com/formbar/status/1192737649401962498
 
 (87) 2019-11-15
-Probably the oldest tokamak in operation is the GOLEM tokamak. It saw first plasma in 1960 in Moscow. In 1976 it was moved to Prague and renamed. In 2007 it was again renamed and is used now mainly for educational purposes, training students for the larger machines.
+Probably the oldest tokamak in operation is the GOLEM tokamak. It saw first 
+plasma in 1960 in Moscow. In 1976 it was moved to Prague and renamed. In 2007 
+it was again renamed and is used now mainly for educational purposes, training 
+students for the larger machines.
 #FusionFriday
 https://twitter.com/formbar/status/1195267598260289536
 
 (88) 2019-11-22
-JET, the world largest tokamak, has upgraded its neutral beam heating power in preparation for the deuterium-tritium experiments in 2020. A record value of about 31 MW were injected into a plasma last week.
+JET, the world largest tokamak, has upgraded its neutral beam heating power in 
+preparation for the deuterium-tritium experiments in 2020. A record value of 
+about 31 MW were injected into a plasma last week.
 #FusionFriday
 https://twitter.com/formbar/status/1197801066802356224
 
 (89) 2019-11-29   + self-mad photo
-SCR-1 is the world smallest stellarator. It is a modular stellarator and was designed & built in Costa Rica, where it is also operated. It serves to educate students and to connect to the worldwide fusion community.
+SCR-1 is the world smallest stellarator. It is a modular stellarator and was 
+designed & built in Costa Rica, where it is also operated. It serves to educate 
+students and to connect to the worldwide fusion community.
 #FusionFriday
 https://twitter.com/formbar/status/1200384351738961920
 
 (90) 2019-12-06
-In case you're interested in fusion research (reading this tweet, I guess you are) there is the fusion podcast @GlassofSeawater, it is a varying group of PhD students talking both, about general concepts & latest research in fusion science. Plus some British humour.
+In case you're interested in fusion research (reading this tweet, I guess you 
+are) there is the fusion podcast @GlassofSeawater, it is a varying group of PhD 
+students talking both, about general concepts & latest research in fusion 
+science. Plus some British humour.
 #FusionFriday
 https://twitter.com/formbar/status/1202917012651020288
 
 (91) 2019-12-13   + self-made photo
-Inertial electrostatic confinement devices use strong electric fields to heat ions to fusion conditions. They are often called "Fusor" and realized as a spherical electrode. They serve as neutron source in many physics labs. Photo shows Fusor at TEC, Costa Rica.
+Inertial electrostatic confinement devices use strong electric fields to heat 
+ions to fusion conditions. They are often called "Fusor" and realized as a 
+spherical electrode. They serve as neutron source in many physics labs. Photo 
+shows Fusor at TEC, Costa Rica.
 #FusionFriday
 https://twitter.com/formbar/status/1205463780970422274
 
 (92) 2019-12-20   + self-made photo
-With the last plasma discharge this year I'd like to wish you all a Merry Christmas and a Happy New year!
-In the middle you see a limiter (made of stainless steel) which is used to create a well-defined plasma boundary (a concept not used for fusion plasmas).
+With the last plasma discharge this year I'd like to wish you all a Merry 
+Christmas and a Happy New year! In the middle you see a limiter (made of 
+stainless steel) which is used to create a well-defined plasma boundary (a 
+concept not used for fusion plasmas).
 #FusionFriday
 https://twitter.com/formbar/status/1208033422565945344
 
 (93) 2019-12-27
-Cold fusion is fusion at room temperature (no millions of centigrade). First idea is from 1920s, breakthrough was announced in 1989 using a Pd cathode in deuterium water. Results could not be replicated anywhere & were considered wrong (tested again 2019 by google).
+Cold fusion is fusion at room temperature (no millions of centigrade). First 
+idea is from 1920s, breakthrough was announced in 1989 using a Pd cathode in 
+deuterium water. Results could not be replicated anywhere & were considered 
+wrong (tested again 2019 by google).
 #FusionFriday
 https://twitter.com/formbar/status/1210506177009868801
 
 (94) 2020-01-03   + self-made photo
 Health & happiness to you & your families in 2020! 
-Let's get ready for another exciting year: JT60-SA in Japan (similar sized conventional tokamak as JET) and MAST Upgrade in UK (large spherical tokamak) will start operation in 2020.
+Let's get ready for another exciting year: JT60-SA in Japan (similar sized 
+conventional tokamak as JET) and MAST Upgrade in UK (large spherical tokamak) 
+will start operation in 2020.
 #FusionFriday
 https://twitter.com/formbar/status/1213037125102428161
 
 (95) 2020-01-10
-Applying enough heating to a plasma in a tokamak or stellarator, it can transit to a state of higher energy confinement, the H-mode. Discovered in 1982, reproduced on numerous devices, it is still not fully understood, transition cannot be reproduced in simulations.
+Applying enough heating to a plasma in a tokamak or stellarator, it can transit 
+to a state of higher energy confinement, the H-mode. Discovered in 1982, 
+reproduced on numerous devices, it is still not fully understood, transition 
+cannot be reproduced in simulations.
 #FusionFriday
 https://twitter.com/formbar/status/1215554178082385920
 
 (96) 2020-01-17
-In a Z-pinch (early fusion concept) a current flowing along a plasma generates a B-field leading to compression. Global instabilities were a showstopper, today it's used as X-ray source. Due to its simplicity, it is still investigated by some small groups.
+In a Z-pinch (early fusion concept) a current flowing along a plasma generates a 
+B-field leading to compression. Global instabilities were a showstopper, today 
+it's used as X-ray source. Due to its simplicity, it is still investigated by 
+some small groups.
 #FusionFriday
 https://twitter.com/formbar/status/1218084216677814273
 
 (97) 2020-01-24
-The energy release in fusion, e.g. in the sun, is based on the fact that a helium nucleus weighs less than its 4 constituents weighted separately. This mass defect was discovered 100 years ago and is explained by the binding energy holding the nucleus together.
+The energy release in fusion, e.g. in the sun, is based on the fact that a 
+helium nucleus weighs less than its 4 constituents weighted separately. This 
+mass defect was discovered 100 years ago and is explained by the binding energy 
+holding the nucleus together.
 #FusionFriday
 https://twitter.com/formbar/status/1220630962700201985
 
 (98) 2020-01-31
-Nuclear fusion research relies on international cooperation. Since the beginning in the 1960s, researchers from different countries collaborated in large and small-scale projects. I strongly believe that Brexit (sad as it is) will mean no harm to fusion research.
+Nuclear fusion research relies on international cooperation. Since the beginning 
+in the 1960s, researchers from different countries collaborated in large and 
+small-scale projects. I strongly believe that Brexit (sad as it is) will mean no 
+harm to fusion research.
 #FusionFriday
 https://twitter.com/formbar/status/1223181589871583233
 
 (99) 2020-02-07   + GIF
-A fusion plasma, consisting of charged particles, emits a lot of electromagnetic radiation. Only the boundary of the plasma is cold enough such that the radiation is in the visible range, the rest are X-rays which explains why the plasma appears to be invisible.
+A fusion plasma, consisting of charged particles, emits a lot of electromagnetic 
+radiation. Only the boundary of the plasma is cold enough such that the 
+radiation is in the visible range, the rest are X-rays which explains why the 
+plasma appears to be invisible.
 #FusionFriday
 https://twitter.com/formbar/status/1225713181177372672
 --> second most successful tweet: 29 Retweets, 42 Likes
 
 (100) 2020-02-14   + GIF
-Machine learning, known for face or speech recognition, is also used in fusion research. It can help to recognize pattern in the plasma behavior leading to an instability. This can then help to mitigate or suppress the instability thus improving overall performance.
+Machine learning, known for face or speech recognition, is also used in fusion 
+research. It can help to recognize pattern in the plasma behavior leading to 
+an instability. This can then help to mitigate or suppress the instability thus 
+improving overall performance.
 #FusionFriday
 https://twitter.com/formbar/status/1228236644643299334
 
 (101) 2020-02-21
-KSTAR is a fully superconductive tokamak located in South Korea. It saw its first plasma in 2008 and is specialized in long-pulse operation thus delivering valuable input for preparation of ITER experiments. 
+KSTAR is a fully superconductive tokamak located in South Korea. It saw its 
+first plasma in 2008 and is specialized in long-pulse operation thus delivering 
+valuable input for preparation of ITER experiments. 
 (Also: you can buy a Lego model of it at their lab!)
 #FusionFriday
 https://twitter.com/formbar/status/1230769378762743808
 
 (102) 2020-02-28   + GIF
-The confinement of tokamak plasmas improves when increasing the isotope mass of the gas forming the plasma. The improvement is due to a change in the turbulent dynamics of the plasmas, but a complete understanding of this isotope effect is still lacking.
+The confinement of tokamak plasmas improves when increasing the isotope mass of 
+the gas forming the plasma. The improvement is due to a change in the turbulent 
+dynamics of the plasmas, but a complete understanding of this isotope effect is 
+still lacking.
 #FusionFriday
 https://twitter.com/formbar/status/1233355380740235268
 
 (103) 2020-03-06
-Confinement of tokamak & stellarator improves with increasing magnetic field. Superconducting coils are however limited to a maximum field. High-temperature superconductors allow for higher fields, various start-ups are exploring their potential for fusion research.
+Confinement of tokamak & stellarator improves with increasing magnetic field. 
+Superconducting coils are however limited to a maximum field. High-temperature 
+superconductors allow for higher fields, various start-ups are exploring their 
+potential for fusion research.
 #FusionFriday
 https://twitter.com/formbar/status/1235872056534880257
 
 (104) 2020-03-13
-When fusing deuterium & tritium together, an alpha particle and a neutron are created. Having no charge, the neutron escapes the magnetic cage of tokamak & stellarator. It heats up the wall (drives a turbine, generates electricity) and breeds tritium for more fusion
+When fusing deuterium & tritium together, an alpha particle and a neutron are 
+created. Having no charge, the neutron escapes the magnetic cage of tokamak & 
+stellarator. It heats up the wall (drives a turbine, generates electricity) 
+and breeds tritium for more fusion
 #FusionFriday
 https://twitter.com/formbar/status/1238491902472839169
 
 (105) 2020-03-20
-A tokamak can only be operated in pulsed-mode as part of the confining magnetic field is created by a current driven by ramping up & down a giant transformer. The bootstrap current is a strong current generated by the plasma itself and can overcome this limitation.
+A tokamak can only be operated in pulsed-mode as part of the confining magnetic 
+field is created by a current driven by ramping up & down a giant transformer. 
+The bootstrap current is a strong current generated by the plasma itself and 
+can overcome this limitation.
 #FusionFriday
 https://twitter.com/formbar/status/1240969885821341697
 
 (106) 2020-03-27   + GIF
-If the plasma density in a tokamak exceeds a threshold, the plasma becomes unstable, the confinement is lost. The limit is called Greenwald density, it depends on magnetic field & tokamak size. It does not exists in stellarators, the reason is not fully understood.
+If the plasma density in a tokamak exceeds a threshold, the plasma becomes 
+unstable, the confinement is lost. The limit is called Greenwald density, it 
+depends on magnetic field & tokamak size. It does not exists in stellarators, 
+the reason is not fully understood.
 #FusionFriday
 https://twitter.com/formbar/status/1243576283071762433
 
 (107) 2020-04-03   + JT-60SA photo
-This week, construction of the tokamak JT-60SA (Japan+EU project) has been completed. It is of similar size as JET but more powerful. One goal is to optimize plasma configurations for ITER (long-pulses). 1st plasma foreseen for Sept. Picture from @fusionforenergy
+This week, construction of the tokamak JT-60SA (Japan+EU project) has been 
+completed. It is of similar size as JET but more powerful. One goal is to 
+optimize plasma configurations for ITER (long-pulses). 1st plasma foreseen for 
+Sept. Picture from @fusionforenergy
 #FusionFriday
 https://twitter.com/formbar/status/1246036902534426624
 
 (108) 2020-04-10   + self-made triple-product-vs-T-plot
-The fusion triple product combines three quantities relevant for building a fusion reactor: plasma density, ion temperature, and energy confinement time. As shown in the plot, the tokamak is leading the race (the higher the better), that's why ITER is a tokamak.
+The fusion triple product combines three quantities relevant for building a 
+fusion reactor: plasma density, ion temperature, and energy confinement time. 
+As shown in the plot, the tokamak is leading the race (the higher the better), 
+that's why ITER is a tokamak.
 #FusionFriday
 https://twitter.com/formbar/status/1248615031895257088
 
 (109) 2020-04-17   + self-made plasm-zoo plot
-Nuclear fusion requires to bring 2 positively charged nuclei very close together. To overcome the Coulomb repulsion, they need a very high energy (temperature). At the required temperatures, matter exists in the plasma state. 99 % of known matter is in this state.
+Nuclear fusion requires to bring 2 positively charged nuclei very close 
+together. To overcome the Coulomb repulsion, they need a very high energy 
+(temperature). At the required temperatures, matter exists in the plasma state. 
+99 % of known matter is in this state.
 #FusionFriday
 https://twitter.com/formbar/status/1251100714732060672
 
 (110) 2020-04-24   + GIF
-Magnetic field lines in tokamaks & stellarators are twisted (like a screw). Toroidal geometry results in drift motion of electrons & ions into opposite directions, creating E-fields. Twisted field lines connect regions of opposite charge, cancelling the E-fields.
+Magnetic field lines in tokamaks & stellarators are twisted (like a screw). 
+Toroidal geometry results in drift motion of electrons & ions into opposite 
+directions, creating E-fields. Twisted field lines connect regions of opposite 
+charge, cancelling the E-fields.
 #FusionFriday
 https://twitter.com/formbar/status/1253615979671760896
 
 (111) 2020-05-01   + GIF
-Zonal flows are known from longitudinal flows in the Earth's atmosphere or from the massive gas planet Jupiter. They also appear in stellarators & tokamaks. Being fed by turbulence, they might play a role in reducing it and thus the corresponding losses.
+Zonal flows are known from longitudinal flows in the Earth's atmosphere or from 
+the massive gas planet Jupiter. They also appear in stellarators & tokamaks. 
+Being fed by turbulence, they might play a role in reducing it and thus the 
+corresponding losses.
 #FusionFriday
 https://twitter.com/i/status/1256235221525172227
 
 (112) 2020-05-08   + GIF
-In 1949, young soldier Oleg Lavrentiev wrote a letter to Stalin. He taught himself physics & suggested the basic concept behind the tokamak. Stalin forwarded the letter to Sakharov & Tamm. They invited Lavrentiev, discussed further, and the 1st tokamak was built.
+In 1949, young soldier Oleg Lavrentiev wrote a letter to Stalin. He taught 
+himself physics & suggested the basic concept behind the tokamak. Stalin 
+forwarded the letter to Sakharov & Tamm. They invited Lavrentiev, discussed 
+further, and the 1st tokamak was built.
 #FusionFriday
 https://twitter.com/i/status/1258727811046572033
 
 (113) 2020-05-15   + GIF
-The small tokamak TM-1 saw first plasma in 1960 in Moscow. 1977 it was given to Prague. After refurbishing (1984) it was renamed CASTOR and operated until 2007. Now it is called GOLEM and serves as a student experiment. Very likely the oldest tokamak in operation.
+The small tokamak TM-1 saw first plasma in 1960 in Moscow. 1977 it was given 
+to Prague. After refurbishing (1984) it was renamed CASTOR and operated until 
+2007. Now it is called GOLEM and serves as a student experiment. Very likely 
+the oldest tokamak in operation.
 #FusionFriday
 https://twitter.com/i/status/1261310771465781249
 
 (114) 2020-05-22   + self-made fusion-reactivity-plot
-Fusion reactivity quantifies the likelihood for a fusion reaction to occur averaged over a thermal distribution (plasma particles have a distribution of energies rather than a single energy). Sun's fusion process p+p is highly unlikely compared to our favorite D+T
+Fusion reactivity quantifies the likelihood for a fusion reaction to occur 
+averaged over a thermal distribution (plasma particles have a distribution of 
+energies rather than a single energy). Sun's fusion process p+p is highly 
+unlikely compared to our favorite D+T
 #FusionFriday
 https://twitter.com/formbar/status/1263773891371073538
 
 (115) 2020-05-29   + GIF
-The cryostat of a tokamak or stellarator provides a vacuum insulation to thermally isolate the superconducting magnets and also to support tokamak/stellarator components. ITER's massive cryostat base (its largest component) has been put into place this week.
+The cryostat of a tokamak or stellarator provides a vacuum insulation to 
+thermally isolate the superconducting magnets and also to support 
+tokamak/stellarator components. ITER's massive cryostat base (its largest 
+component) has been put into place this week.
 #FusionFriday
 https://twitter.com/i/status/1266299924355772423
 
 (116) 2020-06-05   + self-made drawing of fieldline+flux surface
-A magnetic field line in tokamak & stellarator goes around toroidally and usually doesn't close: it traces out a surface, called magnetic flux surface. Charged particles move freely along field lines, thus plasma density & temperature is the same on such a surface.
+A magnetic field line in tokamak & stellarator goes around toroidally and 
+usually doesn't close: it traces out a surface, called magnetic flux surface. 
+Charged particles move freely along field lines, thus plasma density & 
+temperature is the same on such a surface.
 #FusionFriday
 https://twitter.com/formbar/status/1268900054598901762
 
 (117) 2020-06-12   + GIF
-Liquid metals walls are currently discussed as a possible 1st wall in a fusion reactor: a vapor cloud above the wall develops, catching a significant part of the energy flowing from the plasma to the wall. It's easier to keep the wall's temperature low this way.
+Liquid metals walls are currently discussed as a possible 1st wall in a fusion 
+reactor: a vapor cloud above the wall develops, catching a significant part of 
+the energy flowing from the plasma to the wall. It's easier to keep the wall's 
+temperature low this way.
 #FusionFriday
 https://twitter.com/formbar/status/1271475083706609664
 
 (118) 2020-06-19   + GIF
-The magnetic field in a tokamak or stellarator needs to be twisted (like a screw), otherwise there will be no confinement. In addition, the twist changes over the radius. This is called magnetic shear and can greatly enhance the stability of a plasma.
+The magnetic field in a tokamak or stellarator needs to be twisted (like a 
+screw), otherwise there will be no confinement. In addition, the twist changes 
+over the radius. This is called magnetic shear and can greatly enhance the 
+stability of a plasma.
 #FusionFriday
 https://twitter.com/formbar/status/1273921560823369729
 
 (119) 2020-06-26   + self-made 1D random-walk movie
-In the most simple 1D random walk example you toss a coin and then go 1 step forward (head) or 1 step backward (tail). The general principle of a random walk can be used to describe numerous phenomena in physics, transport in fusion plasmas in only one of them.
+In the most simple 1D random walk example you toss a coin and then go 1 step 
+forward (head) or 1 step backward (tail). The general principle of a random walk 
+can be used to describe numerous phenomena in physics, transport in fusion 
+plasmas in only one of them.
 #FusionFriday
 https://twitter.com/formbar/status/1276438766111076353
 
 (120) 2020-07-03   + GIF
-Key to confinement of a hot plasma in a tokamak is a strong toroidal (along the torus) magnetic field, achieved by field coils. The finite number of coils introduces an inhomogeneity, a ripple. This ripple, stronger at the boundary, can cause loss of some particles.
+Key to confinement of a hot plasma in a tokamak is a strong toroidal (along the 
+torus) magnetic field, achieved by field coils. The finite number of coils 
+introduces an inhomogeneity, a ripple. This ripple, stronger at the boundary, 
+can cause loss of some particles.
 #FusionFriday
 https://twitter.com/formbar/status/1279086752339238917
 
 (121) 2020-07-10   + GIF
-Turbulence in neutral fluids is generally 3D. In magnetized plasmas the B-field imposes a restriction on the movement of the plasma, resulting in the turbulence being 2D. An interesting consequences is the occurrence of large structures being fed by smaller ones. 
+Turbulence in neutral fluids is generally 3D. In magnetized plasmas the B-field 
+imposes a restriction on the movement of the plasma, resulting in the turbulence 
+being 2D. An interesting consequences is the occurrence of large structures 
+being fed by smaller ones. 
 #FusionFriday
 https://twitter.com/formbar/status/1281584134704582657
+
+(122) 2020-07-17   + NASA-photo
+Huge filaments occurring at the sun's surface are responsible for massive 
+ejection of particles & energy into space. The filaments are formed by magnetic 
+field lines, guiding & trapping the sun's hot plasma, reminiscent of tokamak & 
+stellarator on Earth.
+Image: NASA
+#FusionFriday
+https://twitter.com/formbar/status/1284036268805038080
+
+(123) 2020-07-24   + GIF
+Edward Teller, often described as farther of the H-bomb, also worked on the 
+peaceful use of fusion. In 1954, he said "Trying to confine a plasma with 
+magnetic field lines is like trying to hold a blob of jelly with rubber bands". 
+Not impossible, but also not easy. 
+#FusionFriday
+https://twitter.com/formbar/status/1286691972376416257
+
+(124) 2020-07-31
+This week was the beginning of the assembly of the ITER device itself, which 
+will roughly take 5 years. To get a better understanding of the device, plans 
+of a 1/100 scaled-down version of ITER for your local 3D printer were released: 
+https://iter.org/newsline/-/3477
+#FusionFriday
+https://twitter.com/formbar/status/1289185161473478656
+
+(125) 2020-08-21   + GIF
+The first patent for a fusion reactor was filed in 1946 by Thomson & Blackman, 
+working at the University of London. In contrast to today’s experiment it was a 
+tabletop device. It turned out to not work, but its concept was already similar 
+to the tokamak.
+#FusionFriday
+https://twitter.com/formbar/status/1296741184522653696
+
+(126) 2020-08-28   + GIF
+Sawtooth instabilities occur in tokamaks: periodically, a slow increase of 
+central temperature is followed by a sudden drop (resulting in energy release), 
+hence the name sawtooth. It limits central temperature but can also help to 
+remove He ash in a burning plasma.
+#FusionFriday
+https://twitter.com/formbar/status/1299343766424301568
+
+(127) 2020-09-04   + GIF
+A magnetic field line goes around & around in tokamak or stellarator, defining a 
+magnetic flux surface. Plasma pressure is equal on it. There can be errors, 
+however, so-called magnetic islands, a closed flux surface isolated from the 
+background.
+#FusionFriday
+https://twitter.com/formbar/status/1301886406923436032
+
+(128) 2020-09-11   + GIF
+The JT-60SA tokamak, located in Japan, is scheduled to start operation in autumn 
+this year. It will be the world's most powerful tokamak, and also the closest in 
+design to ITER. It is supposed to help prepare the initial operation of ITER.
+#FusionFriday
+https://twitter.com/formbar/status/1304391228956594177
+
+(129) 2020-09-18   + GIF
+Fusion research does not only happen at publicly funded national labs or 
+universities. There exists almost 30 privately funded companies around the world 
+pursuing different paths to realize fusion: 
+http://julien.hillairet.free.fr/wiki/doku.php?id=list_of_fusion_startups, via 
+@HillairetJulien
+#FusionFriday
+https://twitter.com/formbar/status/1306962719741038598
+
+(130) 2020-09-25   + GIF
+In the sun, the proton-proton chain is the fusion reaction being responsible for 
+the released energy. This has been explained in 1938, but it took until 1992 to 
+experimentally confirm it by detecting neutrinos produced in that reaction in 
+the GALLEX experiment.
+#FusionFriday
+https://twitter.com/formbar/status/1309447795674427392
+
+(131) 2020-10-02
+Fusion is rarely taught in secondary schools. That's why FuseNet is organizing 
+the #FusionTeacherDay today. Find my (warning: German) introductory slides for 
+physics teacher here: https://doi.org/10.18419/opus-11052
+@FuseNet_eu will provide classroom material soon.
+#FusionFriday
+https://twitter.com/formbar/status/1311991710210285568
+
+(132) 2020-10-09   + GIF
+SPARC is a design study of a tokamak with high-temperature superconductors 
+allowing for higher field than conventional superconductors. Still a 
+conventional tokamak, it shares the physics basis with ITER. The higher field, 
+however, would allow for a smaller machine.
+#FusionFriday
+https://twitter.com/formbar/status/1314526827340271624
+
+(133) 2020-10-16   + GIF
+A tokamak has a toroidal electric field (transformer effect) initially 
+accelerating free electrons which then start a plasma discharge via collisions. 
+Some electrons, runaway electrons, are too fast for collisions. Their energies 
+can approach relativistic levels.
+#FusionFriday
+https://twitter.com/formbar/status/1317042469234790400
+
+(134) 2020-10-23   + GIF
+The INTOR project started in 1973 by a meeting between Nixon & Brezhnev. They 
+agreed that cooperating in fusion research would help to ease tension between 
+them. Regular workshops were held, identifying research needs & building the 
+basis for what led later to ITER.
+#FusionFriday
+https://twitter.com/formbar/status/1319603121379823616
+
+(135) 2020-10-30
+A new fusion device saw its first plasma yesterday: MAST Upgrade at Culham (UK). 
+It's a spherical tokamak which is a more compact version of a conventional 
+tokamak. Its potential for a fusion reactor will be investigated + plasma 
+exhaust questions relevant for ITER.
+#FusionFriday
+https://twitter.com/formbar/status/1322222307595722752
+
+(136) 2020-11-06   + GIF
+If the plasma pressure increases, currents flowing in the plasma also increase, 
+stabilizing the pressure. These currents influence the background magnetic field 
+and result in a shift of the plasma, the Shafranov shift. It it's too large the 
+plasma becomes unstable.
+#FusionFriday
+https://twitter.com/formbar/status/1324727467379171329
+
+(137) 2020-11-13   + GIF
+Tokamak plasmas can experience initial perturbations resulting in vertical 
+movement. Forces from magnetic field & plasma current enhance the displacement, 
+plasma eventually hits the vessel (Vertical Displacement Event). Passive & 
+active control is therefore applied.
+#FusionFriday
+https://twitter.com/formbar/status/1327215952258273280
+
+(138) 2020-11-20
+Pushing a tokamak plasma to high performance is not straight-forward as there 
+are many parameters to vary. A very nice way to understand this is a tokamak 
+simulator from @PPPL, found here: https://ippex.pppl.gov/#vt 
+My highscore: 334 - can you beat it?
+#FusionFriday
+https://twitter.com/formbar/status/1329740678654554113
+
+(139) 2020-11-27   + GIF
+In the CNO cycle, 4 protons are fused to an alpha particle using carbon, 
+nitrogen, oxygen as catalysts. It plays a minor role in our sun but is dominant 
+in heavier stars. Being known since 90 years,1st experimental evidence 
+(neutrinos) has been reported this week.
+#FusionFriday
+https://twitter.com/formbar/status/1332301534420496385
+
+(140) 2020-12-04   + GIF
+The largest super-conducting tokamak in the world, JT-60SA, has reached 
+super-conductivity temperatures in all coils. On the other hand, the vessel 
+walls are currently heated up (above 100°C) to get rid of impurities. First 
+plasma is scheduled for early next year.
+#FusionFriday
+https://twitter.com/formbar/status/1334882161380429825
+
+
+() 2021-04-23
+Important contributions by female researchers to fusion science - a thread.
+
+Donna Strickland, Nobel Prize 2018. Her work allowed to create incredibly 
+intense laser pulses which are mandatory in laser fusion.
+
+#FusionFriday #WomenInScience #WomenInFusion
+
+Sanae-Inoue Itoh. She contributed heavily to the model of how the transition 
+into the H-mode works. The H-mode is a type of plasma configuration in which 
+confinement suddenly increases, allowing to reduce the overall size of a 
+potential fusion power plant.
+
+Annick Pouquet. She pioneered a lot of computational & theoretical research on 
+magneto-hydrodynamical turbulence, e.g. on the understanding of the energy 
+transfer between different scales. While her work was about astrophysical 
+plasmas, it is also adapted to fusion plasmas.
+
+Xenija (Ksenija) Razumova. Since the very beginning of fusion research, she 
+contributed to experimental research on tokamaks. Of particular importance was 
+her achievement of a stable plasma scenario in the TM-2 tokamak, marking the 
+beginning of the world-wide tokamak dominance.
+
+Katherine Weimer. Her theoretical research and models of plasma equilibrium were 
+the basis on which the early stellarators in Princeton, @PPPLab, were 
+constructed, although she contributed to both, tokamak and stellarator research.
+
+Sibylle Günter. She is head of Max Planck Institute for Plasma Physics, 
+@PlasmaphysikIPP, home of the world largest stellarator and EU's largest tokamak. 
+Besides her important theoretical contributions on tokamak transport, she is 
+strongly pushing forward education in fusion.
+
+This is just a small, far from complete list, and I ask you to add more by 
+replying to this thread.
+
+() 2021-05-21
+Currently, @FuseNet_eu is finalizing a new book on fusion technology will be 
+freely available (as a follow-up to the free @iaeaorg book "Fusion Physics"). 
+At the moment, there is a competition about the book cover. Feel free to 
+contribute: https://fusenet.eu/textbook-cover-contest
+#FusionFriday
+https://twitter.com/formbar/status/1395737218728214530
+
+() 2021-05-28   + GIF
+First Light Fusion @FLFusion is a privately funded company doing inertial 
+confinement: a rail gun accelerates a copper projectile to 30 km/s. Hitting a 
+plastic target, shock waves should compress a fusion-fuel filled cavity in its 
+center to fusion conditions.
+#FusionFriday
+https://twitter.com/formbar/status/1398286714901237765
 
 NEW:
 () 
